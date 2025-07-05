@@ -1,0 +1,12 @@
+opencv-python
+numpy
+tensorflow
+keras
+streamlit
+librosa
+sounddevice
+scikit-learn
+numpy
+transformers
+torchaudio
+streamlit-audio-recorder
