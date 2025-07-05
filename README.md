@@ -30,7 +30,7 @@ NeuroLink is a full-stack AI-powered assistant that detects **real-time human em
 
 ## 📸 Demo Screenshot
 
-> ![Demo](assets/demo.png) <!-- You can replace this with a real screenshot -->
+> ![Demo](/assets/Screenshot 2025-07-05 at 12.08.16 PM.png) <!-- You can replace this with a real screenshot -->
 
 ---
 
